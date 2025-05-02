@@ -7,7 +7,7 @@ on:
     branches:
       - main
     paths-ignore:
-      - ".github/workflows/agent.yml"
+      #- ".github/workflows/agent.yml"
       - ".github/workflows/codeql-analysis.yml"
       - ".github/workflows/test.yml"
       - ".github/workflows/contributors.yml"
